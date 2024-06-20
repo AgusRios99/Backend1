@@ -1,0 +1,29 @@
+[
+  {
+    "id": "mother",
+    "title": "mother",
+    "description": "ultima version",
+    "price": 14000,
+    "stock": 15,
+    "category": "placa madre",
+    "status": true
+  },
+  {
+    "id": "mouse",
+    "title": "mou5e",
+    "description": "mouse viper 3000dpi",
+    "price": 4000,
+    "stock": 7,
+    "category": "mouse",
+    "status": true
+  },
+  {
+    "id": "gabinete",
+    "title": "gabinete noga",
+    "description": "low tower noga",
+    "price": 1000,
+    "stock": 30,
+    "category": "gabinete",
+    "status": true
+  }
+]
